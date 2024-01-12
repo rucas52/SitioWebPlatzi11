@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\sitiowebplatzi11\\PlatziWebAppMvc.csproj": {}
+    "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\SitioWebPlatzi11\\PlatziWebAppMvc.csproj": {}
   },
   "projects": {
-    "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\sitiowebplatzi11\\PlatziWebAppMvc.csproj": {
+    "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\SitioWebPlatzi11\\PlatziWebAppMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\sitiowebplatzi11\\PlatziWebAppMvc.csproj",
+        "projectUniqueName": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\SitioWebPlatzi11\\PlatziWebAppMvc.csproj",
         "projectName": "PlatziWebAppMvc",
-        "projectPath": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\sitiowebplatzi11\\PlatziWebAppMvc.csproj",
+        "projectPath": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\SitioWebPlatzi11\\PlatziWebAppMvc.csproj",
         "packagesPath": "C:\\Users\\Ruth\\.nuget\\packages\\",
-        "outputPath": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\sitiowebplatzi11\\obj\\",
+        "outputPath": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps11\\SitioWebPlatzi11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
